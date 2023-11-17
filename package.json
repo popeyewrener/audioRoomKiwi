@@ -1,0 +1,28 @@
+{
+  "name": "audioroomserver",
+  "version": "1.0.0",
+  "description": "Audio room server for KIWI",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popeyewrener/audioRoomKiwi.git"
+  },
+  "keywords": [
+    "audioroom",
+    "live",
+    "socket.io",
+    "node.js"
+  ],
+  "author": "Popeye Wrener",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/popeyewrener/audioRoomKiwi/issues"
+  },
+  "homepage": "https://github.com/popeyewrener/audioRoomKiwi#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
